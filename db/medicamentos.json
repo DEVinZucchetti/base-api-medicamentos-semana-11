@@ -1,0 +1,11 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "preco": 5.00,
+      "nome": "Dipirona",
+      "laboratorio": "Clamed",
+      "favorito": false
+    }
+  ]
+}
